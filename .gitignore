@@ -131,4 +131,4 @@ dmypy.json
 # Personal setup
 *.xlsx
 *.sas
-/public
+public/
