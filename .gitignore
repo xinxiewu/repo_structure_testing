@@ -131,4 +131,7 @@ dmypy.json
 # Personal setup
 *.xlsx
 *.sas
-public/
+*.doc
+*.docx
+*.ppt
+*.txt
