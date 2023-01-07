@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # Personal setup
-.xlsx
-.sas
+*.xlsx
+*.sas
+/public
