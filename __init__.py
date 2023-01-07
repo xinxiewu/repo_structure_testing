@@ -1,3 +1,3 @@
 print("This is the top-level folder of Functions!")
 
-import source
+import repo_structure_testing.source
